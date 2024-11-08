@@ -48,164 +48,175 @@ Run the application:
 bash
 Copy code
 dotnet run
-🗂️ Project Structure
+# 🗂️ Project Structure
 This repository is structured into daily lessons, each focusing on a specific topic related to C# or ASP.NET Core. Each lesson includes:
 
-A Markdown file explaining the topic.
-A source code folder with relevant examples or projects.
-📅 Progress Tracker
-Day	Topic	Status	Link
-Day 1	Introduction to C#	Completed	Day 1
-Day 2	Data Types, Variables, and Operators	Completed	Day 2
-Day 3	Control Flow Statements (if, switch, loops)	Completed	Day 3
-Day 4	Functions and Methods	In Progress	Day 4
-...	...	...	...
-📚 Topics Covered
-C# Topics
-Beginner Level
-Day 1: Introduction to C# and .NET
-Overview of .NET, C# basics, syntax, structure, compiling
+- A Markdown file explaining the topic.
+- A source code folder with relevant examples or projects.
 
-Day 2: Data Types, Variables, and Operators
-Primitive types, value types, reference types, operators, expressions, and type conversions
+## 📅 Progress Tracker
+| Day  | Topic                                    | Status        | Link       |
+|------|------------------------------------------|---------------|------------|
+| Day 1 | Introduction to C#                      | In Progress     | [Day 1](link) |
 
-Day 3: Control Flow Statements
-if, else, switch, loops (for, while, foreach)
+| ...  | ...                                      | ...           | ...        |
 
-Day 4: Methods and Functions
-Defining methods, return types, parameters, overloading
+## 📚 Topics Covered
+This roadmap breaks down all the topics from basic to expert level. Each day builds on the knowledge gained from previous days.
 
-Day 5: Arrays, Lists, and Collections
-Arrays, Lists, Dictionaries, and other collection types
+### C# Topics
 
-Day 6: Classes and Objects
-Creating classes, constructors, methods, properties, fields
+#### Beginner Level
+- **Day 1**: Introduction to C# and .NET  
+  Overview of .NET, C# basics, syntax, structure, compiling.
 
-Day 7: Encapsulation, Inheritance, and Polymorphism
-Access modifiers, base classes, virtual/override
+- **Day 2**: Data Types, Variables, and Operators  
+  Primitive types, value types, reference types, operators, expressions, and type conversions.
 
-Day 8: Interfaces and Abstract Classes
-Defining and implementing interfaces, abstract methods
+- **Day 3**: Control Flow Statements  
+  `if`, `else`, `switch`, loops (`for`, `while`, `foreach`).
 
-Intermediate Level
-Day 9: Delegates, Events, and Lambda Expressions
-Creating and using delegates, events, anonymous methods
+- **Day 4**: Methods and Functions  
+  Defining methods, return types, parameters, overloading.
 
-Day 10: Generics
-Generic types, methods, and collections
+- **Day 5**: Arrays, Lists, and Collections  
+  Arrays, Lists, Dictionaries, and other collection types.
 
-Day 11: Exception Handling
-try, catch, throw, custom exceptions, finally
+- **Day 6**: Classes and Objects  
+  Creating classes, constructors, methods, properties, fields.
 
-Day 12: LINQ (Language Integrated Query)
-Querying collections, filtering, projections, joins
+- **Day 7**: Encapsulation, Inheritance, and Polymorphism  
+  Access modifiers, base classes, `virtual/override`.
 
-Day 13: Asynchronous Programming (Async/Await)
-Tasks, async methods, handling async operations
+- **Day 8**: Interfaces and Abstract Classes  
+  Defining and implementing interfaces, abstract methods.
 
-Day 14: File I/O
-Working with files, streams, directories, reading/writing data
+#### Intermediate Level
+- **Day 9**: Delegates, Events, and Lambda Expressions  
+  Creating and using delegates, events, anonymous methods.
 
-Advanced Level
-Day 15: Reflection and Metadata
-Inspecting assemblies, dynamic types, creating instances at runtime
+- **Day 10**: Generics  
+  Generic types, methods, and collections.
 
-Day 16: Dependency Injection
-Principles of DI, using DI in .NET Core, configuring services
+- **Day 11**: Exception Handling  
+  `try`, `catch`, `throw`, custom exceptions, `finally`.
 
-Day 17: Working with Databases using Entity Framework Core
-Code-first approach, migrations, CRUD operations
+- **Day 12**: LINQ (Language Integrated Query)  
+  Querying collections, filtering, projections, joins.
 
-Day 18: Multithreading and Parallel Programming
-Working with threads, tasks, parallelism
+- **Day 13**: Asynchronous Programming (Async/Await)  
+  Tasks, async methods, handling async operations.
 
-Day 19: Design Patterns in C#
-Singleton, Factory, Repository, etc.
+- **Day 14**: File I/O  
+  Working with files, streams, directories, reading/writing data.
 
-Day 20: Performance Optimization in C#
-Memory management, GC tuning, using Span<T> and Memory<T>
+#### Advanced Level
+- **Day 15**: Reflection and Metadata  
+  Inspecting assemblies, dynamic types, creating instances at runtime.
 
-ASP.NET Core Topics
-Beginner Level
-Day 21: Introduction to ASP.NET Core
-Overview of the framework, architecture, startup
+- **Day 16**: Dependency Injection  
+  Principles of DI, using DI in .NET Core, configuring services.
 
-Day 22: Creating an ASP.NET Core MVC Project
-Setting up a basic MVC project, folder structure, routing
+- **Day 17**: Working with Databases using Entity Framework Core  
+  Code-first approach, migrations, CRUD operations.
 
-Day 23: Working with Controllers and Actions
-Understanding MVC pattern, creating controllers, routing
+- **Day 18**: Multithreading and Parallel Programming  
+  Working with threads, tasks, parallelism.
 
-Day 24: Views and Razor Pages
-Working with Razor syntax, layouts, partial views
+- **Day 19**: Design Patterns in C#  
+  Singleton, Factory, Repository, etc.
 
-Day 25: Models and Data Binding
-Creating models, data validation, binding data to views
+- **Day 20**: Performance Optimization in C#  
+  Memory management, GC tuning, using `Span<T>` and `Memory<T>`.
 
-Day 26: Dependency Injection in ASP.NET Core
-Configuring services, injecting dependencies into controllers
+---
 
-Intermediate Level
-Day 27: Working with Entity Framework Core
-Database context, migrations, repository pattern
+### ASP.NET Core Topics
 
-Day 28: CRUD Operations in ASP.NET Core
-Implementing Create, Read, Update, Delete functionality
+#### Beginner Level
+- **Day 21**: Introduction to ASP.NET Core  
+  Overview of the framework, architecture, startup.
 
-Day 29: Authentication and Authorization
-Using Identity framework, roles, claims-based authentication
+- **Day 22**: Creating an ASP.NET Core MVC Project  
+  Setting up a basic MVC project, folder structure, routing.
 
-Day 30: Session and State Management
-Managing sessions, cookies, application state
+- **Day 23**: Working with Controllers and Actions  
+  Understanding MVC pattern, creating controllers, routing.
 
-Day 31: Routing and Middleware
-Custom middleware, attribute routing, URL rewriting
+- **Day 24**: Views and Razor Pages  
+  Working with Razor syntax, layouts, partial views.
 
-Day 32: API Development with ASP.NET Core
-Building RESTful APIs, versioning, OpenAPI/Swagger
+- **Day 25**: Models and Data Binding  
+  Creating models, data validation, binding data to views.
 
-Day 33: Handling Forms and Validation
-Working with forms, client-side and server-side validation
+- **Day 26**: Dependency Injection in ASP.NET Core  
+  Configuring services, injecting dependencies into controllers.
 
-Day 34: File Uploads and Handling Multipart Data
-Handling file uploads, managing file systems
+#### Intermediate Level
+- **Day 27**: Working with Entity Framework Core  
+  Database context, migrations, repository pattern.
 
-Advanced Level
-Day 35: Advanced API Development
-Securing APIs, token-based authentication (JWT), CORS policies
+- **Day 28**: CRUD Operations in ASP.NET Core  
+  Implementing Create, Read, Update, Delete functionality.
 
-Day 36: Real-Time Applications with SignalR
-Implementing real-time web apps with WebSockets and SignalR
+- **Day 29**: Authentication and Authorization  
+  Using Identity framework, roles, claims-based authentication.
 
-Day 37: Unit Testing in ASP.NET Core
-Setting up XUnit/MSTest, testing controllers, mocking dependencies
+- **Day 30**: Session and State Management  
+  Managing sessions, cookies, application state.
 
-Day 38: Integration Testing
-Testing entire application pipelines, using in-memory databases
+- **Day 31**: Routing and Middleware  
+  Custom middleware, attribute routing, URL rewriting.
 
-Day 39: Performance Optimization in ASP.NET Core
-Profiling applications, reducing bottlenecks, caching strategies
+- **Day 32**: API Development with ASP.NET Core  
+  Building RESTful APIs, versioning, OpenAPI/Swagger.
 
-Day 40: Deploying ASP.NET Core Applications
-Publishing to Azure, Docker containers, Kubernetes
+- **Day 33**: Handling Forms and Validation  
+  Working with forms, client-side and server-side validation.
 
-🤝 How to Contribute
+- **Day 34**: File Uploads and Handling Multipart Data  
+  Handling file uploads, managing file systems.
+
+#### Advanced Level
+- **Day 35**: Advanced API Development  
+  Securing APIs, token-based authentication (JWT), CORS policies.
+
+- **Day 36**: Real-Time Applications with SignalR  
+  Implementing real-time web apps with WebSockets and SignalR.
+
+- **Day 37**: Unit Testing in ASP.NET Core  
+  Setting up XUnit/MSTest, testing controllers, mocking dependencies.
+
+- **Day 38**: Integration Testing  
+  Testing entire application pipelines, using in-memory databases.
+
+- **Day 39**: Performance Optimization in ASP.NET Core  
+  Profiling applications, reducing bottlenecks, caching strategies.
+
+- **Day 40**: Deploying ASP.NET Core Applications  
+  Publishing to Azure, Docker containers, Kubernetes.
+
+---
+
+## 🤝 How to Contribute
 We welcome contributions from the community! To contribute:
 
-Fork the repository.
-Create a branch for your feature (git checkout -b feature/new-topic).
-Commit your changes (git commit -m 'Add new topic').
-Push to the branch (git push origin feature/new-topic).
-Open a Pull Request.
-📄 License
+1. Fork the repository.
+2. Create a branch for your feature (`git checkout -b feature/new-topic`).
+3. Commit your changes (`git commit -m 'Add new topic'`).
+4. Push to the branch (`git push origin feature/new-topic`).
+5. Open a Pull Request.
+
+## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-🔗 Helpful Resources
-C# Documentation
-ASP.NET Core Documentation
-Entity Framework Core Documentation
-Visual Studio Code
-GitHub Markdown Guide
-👨‍💻 Author
-GitHub: @tauqeer01
-```
+## 🔗 Helpful Resources
+- [C# Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [ASP.NET Core Documentation](https://docs.microsoft.com/en-us/aspnet/core/)
+- [Entity Framework Core Documentation](https://docs.microsoft.com/en-us/ef/core/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
+
+## 👨‍💻 Author
+GitHub: [@tauqeer01](https://github.com/tauqeer01)
+
