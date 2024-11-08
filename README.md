@@ -34,8 +34,6 @@ git clone https://github.com/tauqeer01/100-Days-To-DotNet-Mastery.git
 # 🗂️ Project Structure
 
 This repository is structured into daily lessons, each focusing on a specific topic related to C# or ASP.NET Core. Each lesson includes:
-
-- A Markdown file explaining the topic.
 - A source code folder with relevant examples or projects.
 
 ## 📅 Progress Tracker
@@ -44,7 +42,7 @@ This repository is structured into daily lessons, each focusing on a specific to
 | ----- | ------------------ | ----------- | ------------- |
 | Day 1 | Introduction to C# | In Progress | [Day 1](link) |
 
-| ... | ... | ... | ... |
+
 
 ## 📚 Topics Covered
 
