@@ -15,16 +15,19 @@ The aim of this project is to guide developers through a structured, day-by-day 
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 Before starting, ensure you have the following installed on your machine:
+
 - .NET SDK (version 6.0 or higher)
 - Visual Studio Code (or Visual Studio 2022 for a more complete IDE)
 - Git
 
 ### Installation
+
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/100DaysToDotNetMastery.git
+git clone https://github.com/tauqeer01/100-Days-To-DotNet-Mastery.git
 Navigate to the project folder:
 
 bash
@@ -205,3 +208,4 @@ Visual Studio Code
 GitHub Markdown Guide
 👨‍💻 Author
 GitHub: @tauqeer01
+```
