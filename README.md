@@ -48,6 +48,7 @@ Run the application:
 bash
 Copy code
 dotnet run
+```
 # 🗂️ Project Structure
 This repository is structured into daily lessons, each focusing on a specific topic related to C# or ASP.NET Core. Each lesson includes:
 
