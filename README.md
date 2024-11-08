@@ -1,23 +1,29 @@
-100-Days-To-DotNet-Mastery
-100DaysToDotNetMastery 🖥️
+# 100-Days-To-DotNet-Mastery
 
-Welcome to 100DaysToDotNetMastery, a comprehensive guide designed to take you from a beginner to an expert in C# and ASP.NET Core development. Over the course of 100 days, we will progressively cover the fundamentals of C# and dive into building real-world web applications using ASP.NET Core, including advanced topics like testing, deployment, security, and performance optimization.
+**100DaysToDotNetMastery 🖥️**
 
-🎯 Project Vision
+Welcome to **100DaysToDotNetMastery**, a comprehensive guide designed to take you from a beginner to an expert in C# and ASP.NET Core development. Over the course of 100 days, we will progressively cover the fundamentals of C# and dive into building real-world web applications using ASP.NET Core, including advanced topics like testing, deployment, security, and performance optimization.
+
+---
+
+## 🎯 Project Vision
+
 The aim of this project is to guide developers through a structured, day-by-day learning path covering all key concepts in C# and ASP.NET Core. Whether you're new to .NET development or looking to deepen your expertise, this project has something for you.
 
-🚀 Getting Started
-Prerequisites
-Before starting, ensure you have the following installed on your machine:
+---
 
-.NET SDK (version 6.0 or higher)
-Visual Studio Code (or Visual Studio 2022 for a more complete IDE)
-Git
-Installation
+## 🚀 Getting Started
+
+### Prerequisites
+Before starting, ensure you have the following installed on your machine:
+- .NET SDK (version 6.0 or higher)
+- Visual Studio Code (or Visual Studio 2022 for a more complete IDE)
+- Git
+
+### Installation
 Clone the repository:
 
-bash
-Copy code
+```bash
 git clone https://github.com/yourusername/100DaysToDotNetMastery.git
 Navigate to the project folder:
 
@@ -43,17 +49,15 @@ dotnet run
 This repository is structured into daily lessons, each focusing on a specific topic related to C# or ASP.NET Core. Each lesson includes:
 
 A Markdown file explaining the topic.
-A Source code folder with relevant examples or projects.
+A source code folder with relevant examples or projects.
 📅 Progress Tracker
-Day Topic Status Link
-Day 1 Introduction to C# Completed Day 1
-Day 2 Data Types, Variables, and Operators Completed Day 2
-Day 3 Control Flow Statements (if, switch, loops) Completed Day 3
-Day 4 Functions and Methods In Progress Day 4
-... ... ... ...
+Day	Topic	Status	Link
+Day 1	Introduction to C#	Completed	Day 1
+Day 2	Data Types, Variables, and Operators	Completed	Day 2
+Day 3	Control Flow Statements (if, switch, loops)	Completed	Day 3
+Day 4	Functions and Methods	In Progress	Day 4
+...	...	...	...
 📚 Topics Covered
-This roadmap breaks down all the topics from basic to expert level. Each day builds on the knowledge gained from previous days.
-
 C# Topics
 Beginner Level
 Day 1: Introduction to C# and .NET
@@ -88,7 +92,7 @@ Day 10: Generics
 Generic types, methods, and collections
 
 Day 11: Exception Handling
-Try, catch, throw, custom exceptions, finally
+try, catch, throw, custom exceptions, finally
 
 Day 12: LINQ (Language Integrated Query)
 Querying collections, filtering, projections, joins
