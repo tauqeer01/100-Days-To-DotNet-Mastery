@@ -28,46 +28,32 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/tauqeer01/100-Days-To-DotNet-Mastery.git
-Navigate to the project folder:
 
-bash
-Copy code
-cd 100DaysToDotNetMastery
-Open the project in Visual Studio Code:
-
-bash
-Copy code
-code .
-Restore dependencies:
-
-bash
-Copy code
-dotnet restore
-Run the application:
-
-bash
-Copy code
-dotnet run
 ```
+
 # 🗂️ Project Structure
+
 This repository is structured into daily lessons, each focusing on a specific topic related to C# or ASP.NET Core. Each lesson includes:
 
 - A Markdown file explaining the topic.
 - A source code folder with relevant examples or projects.
 
 ## 📅 Progress Tracker
-| Day  | Topic                                    | Status        | Link       |
-|------|------------------------------------------|---------------|------------|
-| Day 1 | Introduction to C#                      | In Progress     | [Day 1](link) |
 
-| ...  | ...                                      | ...           | ...        |
+| Day   | Topic              | Status      | Link          |
+| ----- | ------------------ | ----------- | ------------- |
+| Day 1 | Introduction to C# | In Progress | [Day 1](link) |
+
+| ... | ... | ... | ... |
 
 ## 📚 Topics Covered
+
 This roadmap breaks down all the topics from basic to expert level. Each day builds on the knowledge gained from previous days.
 
 ### C# Topics
 
 #### Beginner Level
+
 - **Day 1**: Introduction to C# and .NET  
   Overview of .NET, C# basics, syntax, structure, compiling.
 
@@ -93,6 +79,7 @@ This roadmap breaks down all the topics from basic to expert level. Each day bui
   Defining and implementing interfaces, abstract methods.
 
 #### Intermediate Level
+
 - **Day 9**: Delegates, Events, and Lambda Expressions  
   Creating and using delegates, events, anonymous methods.
 
@@ -112,6 +99,7 @@ This roadmap breaks down all the topics from basic to expert level. Each day bui
   Working with files, streams, directories, reading/writing data.
 
 #### Advanced Level
+
 - **Day 15**: Reflection and Metadata  
   Inspecting assemblies, dynamic types, creating instances at runtime.
 
@@ -135,6 +123,7 @@ This roadmap breaks down all the topics from basic to expert level. Each day bui
 ### ASP.NET Core Topics
 
 #### Beginner Level
+
 - **Day 21**: Introduction to ASP.NET Core  
   Overview of the framework, architecture, startup.
 
@@ -154,6 +143,7 @@ This roadmap breaks down all the topics from basic to expert level. Each day bui
   Configuring services, injecting dependencies into controllers.
 
 #### Intermediate Level
+
 - **Day 27**: Working with Entity Framework Core  
   Database context, migrations, repository pattern.
 
@@ -179,6 +169,7 @@ This roadmap breaks down all the topics from basic to expert level. Each day bui
   Handling file uploads, managing file systems.
 
 #### Advanced Level
+
 - **Day 35**: Advanced API Development  
   Securing APIs, token-based authentication (JWT), CORS policies.
 
@@ -200,6 +191,7 @@ This roadmap breaks down all the topics from basic to expert level. Each day bui
 ---
 
 ## 🤝 How to Contribute
+
 We welcome contributions from the community! To contribute:
 
 1. Fork the repository.
@@ -209,9 +201,11 @@ We welcome contributions from the community! To contribute:
 5. Open a Pull Request.
 
 ## 📄 License
+
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## 🔗 Helpful Resources
+
 - [C# Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [ASP.NET Core Documentation](https://docs.microsoft.com/en-us/aspnet/core/)
 - [Entity Framework Core Documentation](https://docs.microsoft.com/en-us/ef/core/)
@@ -219,5 +213,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
 
 ## 👨‍💻 Author
-GitHub: [@tauqeer01](https://github.com/tauqeer01)
 
+GitHub: [@tauqeer01](https://github.com/tauqeer01)
